@@ -1,0 +1,10 @@
+.wrapper {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.searchInput {
+  padding: 5px;
+  width: 200px;
+}
